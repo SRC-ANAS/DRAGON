@@ -2,7 +2,7 @@ local function Reply(msg)
 local text = msg.content_.text_
 if not database:get(bot_id..'Reply:Status'..msg.chat_id_) then
 if text == 'مطور السورس' then
-TextReply = '[--> : 𝐌!𝐋 . <--](t.me/EE66i)'
+TextReply = '[--> ᯓ 𓆩 ˹آنَـــوسِ˼ 𓆪 آࢦࢦـھم قوھ. <--](t.me/IZlllZI)'
 send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
