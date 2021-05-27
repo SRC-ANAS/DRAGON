@@ -6,7 +6,7 @@ TextReply = '[--> ᯓ 𓆩 ˹آنَـــوسِ˼ 𓆪 آࢦࢦـھم قوھ. <-
 send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
-if text == 'مبرمج دراكون' or text == 'المبرمج' or text == 'مبرمج السورس' then
+if text == 'مبرمج كاينر' or text == 'المبرمج' or text == 'مبرمج السورس' then
 TextReply = '[--> آنـس آل خلآف <--](t.me/l3lll3l)'
 send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
